@@ -1,4 +1,4 @@
-import {createUser, uploadPhoto } from "utils.js";
+import {createUser, uploadPhoto } from "./utils.js";
 
 export const asyncUploadUser = async () => {
     
