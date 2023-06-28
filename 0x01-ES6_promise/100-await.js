@@ -1,4 +1,4 @@
-import {createUser, uploadPhoto } from "./utils.js";
+import {  uploadPhoto, createUser } from "./utils";
 
 export default asyncUploadUser = async () => {
     
